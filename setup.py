@@ -28,7 +28,7 @@ REQUIRED_PACKAGES = [
     'slidingwindow >= 0.0.13',
     'tqdm >= 4.23.4',
     'tensorpack >= 0.8.5',
-    'tensorflow == 1.14',
+    'tensorflow>=1.15.2',
     'pycocotools',
     'imutils'
 ]
