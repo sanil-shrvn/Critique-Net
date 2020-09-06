@@ -1,4 +1,4 @@
-# SimpL-Critique
+# Critique-Net
 
 ## Build Instructions
 ```bash
